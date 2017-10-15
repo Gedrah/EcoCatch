@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gas" size="10.000000 13.330000" />
+    <ImageTarget name="eco" size="10.000000 13.320000" />
+    <ImageTarget name="econo" size="15.000000 19.995001" />
+    <ImageTarget name="Grass" size="15.000000 11.250000" />
+    <ImageTarget name="stones" size="50.000000 35.000000" />
+  </Tracking>
+</QCARConfig>
